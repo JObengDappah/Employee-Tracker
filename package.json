@@ -4,8 +4,7 @@
   "description": "[Description](#description)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scripts/index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,5 +13,9 @@
     "inquirer": "^8.2.4",
     "mysql2": "^3.6.0",
     "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "author": "",
+    "license": "ISC"
   }
 }
