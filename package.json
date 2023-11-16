@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
     "inquirer": "^8.2.4",
@@ -15,7 +13,8 @@
     "sequelize": "^6.32.1"
   },
   "devDependencies": {
-    "author": "",
-    "license": "ISC"
+    "author": "^1.0.0",
+    "license": "^1.0.3",
+    "nodemon": "^3.0.1"
   }
 }
