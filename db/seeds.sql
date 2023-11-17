@@ -1,11 +1,11 @@
---department table data
+-- department table data
 INSERT INTO department (name)
 VALUES 
 ('IT'),
 ('Accounting'),
 ('Marketing'),
 ('Operations');
---role table data
+-- role table data
 INSERT INTO role (title, salary, department_id)
 VALUES
 ('Full Stack Developer', 100000, 1),
@@ -17,7 +17,7 @@ VALUES
 ('Project Manager', 95000, 4),
 ('Operations Manager', 90000, 4);
 
---employee table data
+-- employee table data
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES 
 ('kirby', 'Puffball', 2, null),

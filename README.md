@@ -4,9 +4,11 @@
 
 [Description](#description)
 
-[Link](#link)
-
 [Demo](#demo)
+
+[Screenshots](#screenshots)
+
+[Questions](#questions)
 
 ## Description
 
@@ -14,7 +16,13 @@ This employee tracker tool provides a comprehensive solution for managing depart
 
 ## Demo
 
+(<https://drive.google.com/uc?id=11zcqLjkylStKQmWeewYDyhwgSziWmIcp&export=download>)
+
+## Screenshots
+
 ![Screenshot One](images/Screenshot%202023-11-15%20231907.png)
+![Screenshot One](images/Screenshot%202023-11-16%20214242.png)
+![Screenshot One](images/Screenshot%202023-11-16%20214353.png)
 
 ## Questions
 
